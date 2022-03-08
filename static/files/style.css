@@ -1,0 +1,14 @@
+
+/* some addition css for silder size */
+.bd-placeholder{
+    width:100vw;
+    height:40rem;
+}
+
+/* mediaqueries */
+@media screen and (max-width:1030px) {
+    .bd-placeholder{
+        width:100vw;
+        height:25vh;
+    }
+}
