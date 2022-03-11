@@ -16,9 +16,15 @@ Preview of Trovel Website Response
 
 https://user-images.githubusercontent.com/66934377/157222574-61437893-2638-497b-8450-aa47de01dd29.mp4
 
-To Run this Project you have to install python3 and Django4 in your system
+Required Software's and Application's
 
-After Installed Python And Django now download the Zipfile or clone 
+| Software&Application  | Version |
+| ------------- | ------------- |
+| Python  | 3.10.2  |
+| Django  | 4.0.3  |
+| VsCodeTextEditor  | 1.65.2  |
+
+After Installed Python And Django with same Verion and Latest Verison now download the Zipfile or clone 
 repositoy 
 
 ## Run The Programm Command is
