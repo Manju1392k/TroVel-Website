@@ -28,7 +28,7 @@ The Below Table framework's is used in this Project. To run this project. This F
 | ------------- | ------------- |
 | Python  | 3.10.2  |
 | Django  | 4.0.3  |
-| Boostrap  | 5.1.3  |
+| Bootstrap  | 5.1.3  |
 
 ---
 
